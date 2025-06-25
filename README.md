@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+1CE OF YYBB
+
+Learninf Java...
 <!--
 **1CE-YY/1CE-YY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
