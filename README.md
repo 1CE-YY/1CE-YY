@@ -2,7 +2,6 @@
 
 1CE OF YYBB
 
-Learning Java...
 <!--
 **1CE-YY/1CE-YY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
